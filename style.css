@@ -1,0 +1,221 @@
+*{
+ padding: 0px;
+ margin: 0px; 
+ font-family: 'Poppins', sans-serif;
+ 
+}
+hr{
+    padding: 2px;
+     background-color: rgb(88, 88, 88);
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    height: 20px;
+    padding: 20px;
+
+}
+.nav-links 
+{
+display: flex;
+align-items: center;
+gap: 40px;    
+}
+.sign 
+{
+background-color: rgba(255, 0, 0, 0.87);
+color: white;
+text-decoration: none;
+border-radius: 5px;
+padding: 5px 15px;
+font-size: small;
+}
+.one{
+background-image: linear-gradient(rgba(0, 0, 0, 0.397),rgba(0, 0, 0, 0.295),rgba(0, 0, 0, 0.363)),url("back.jpg");
+width: 100%;
+height:110vh;
+}
+
+.head{
+    text-align: center;
+    margin-top: 250px;
+   color: white;
+line-height: 50px;
+
+}
+.head h1{
+    font-size: xxx-large;
+}
+.head p{
+    font-size:x-large  ;
+}
+.translate select{
+   
+    border: none;
+    background-color:rgba(0, 0, 0, 0.219);
+  
+      font-size: medium;
+     color: white;
+     border-color:gray; 
+    border-radius: 5px;
+
+}
+.translate img{
+padding-top: 4px;
+mix-blend-mode: color-burn;
+}
+.translate {
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px gray solid;
+    border-radius: 3px;  
+height: 30px;
+width: 120px;
+}
+
+.Email{
+display: flex;
+
+justify-content: center;
+line-height: 80px;
+gap: 20px;
+}
+.get a{
+text-decoration: none;
+font-size: x-large;
+color: white;
+padding: 12px 15px;
+   background-color: rgba(255, 0, 0, 0.87);
+  border-radius: 3px;
+}
+
+.email input
+{
+padding: 15px 45px;
+background-color: rgba(0, 0, 0, 0.582);
+color: azure;
+border-color: rgba(0, 0, 0, 0.182);
+}
+
+/* ************************************************************ two ***********************************************/
+
+
+.two 
+{
+    background-color: black;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+
+.fcaution{
+color: white;
+
+}
+
+.fcaution h1{
+font-size:50px;
+
+}
+
+.fcaution p{
+margin-top: 20px;
+font-size: 20px;
+}
+
+/* **************************************************** Three ***************************************************** */
+.three{
+        background-color: black;
+        height: 100vh;
+        width: 100%;   
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+}
+.fcaution2{
+    color: white;
+ 
+}
+.fcaution2 h1{
+    font-size:50px;
+    
+    }
+    .fcaution2 p{
+        margin-top: 20px;
+        font-size: 20px;
+        }
+/* ***************************************************** Four ********************************************************/
+
+.four{
+    background-color: black;
+    height: 100vh;
+    width: 100%;   
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.fcaution3{
+color: white;
+
+}
+.fcaution3 h1{
+font-size:50px;
+
+}
+.fcaution3 p{
+    margin-top: 20px;
+    font-size: 20px;
+    }
+/* ************************************************** Five ***********************************************************/
+
+    
+.five{
+    background-color: black;
+    height: 100vh;
+    width: 100%;   
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.fcaution4{
+color: white;
+
+}
+.fcaution4 h1{
+font-size:50px;
+
+
+}
+.fcaution4 p{
+    margin-top: 20px;
+    font-size: 20px;
+    }
+
+/*************************************************** six **********************************************************/
+.six{
+    background-color: black;
+}
+.fcaution5{
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    font-size: xx-large;
+}
+.quest{
+    display: inline;
+ justify-content: center;
+    color: whitesmoke;
+}
+
+.q{
+    align-items: center;
+background-color: gray;
+    font-size: x-large;
+    width: 500px;      
+
+
+}
