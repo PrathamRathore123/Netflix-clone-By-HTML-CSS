@@ -226,7 +226,7 @@ font-size:50px;
         padding: 20px;
         font-size: 18px;
         font-weight: 500;
-        background:gray;
+        background:rgba(75, 73, 73, 0.548);
         margin-bottom: 2px;
         cursor: pointer;
         position: relative;
@@ -243,7 +243,7 @@ font-size:50px;
         display: none;
     }
     .accordion .content2{
-        background: gray;
+        background: rgba(75, 73, 73, 0.548);
         text-align: left;
         padding: 0 20px;
         max-height: 0;
@@ -255,7 +255,7 @@ font-size:50px;
         padding:30px 20px;
     }
     .accordion input[type="radio"]:checked + label::after{
-        transform: rotate(135deg);
+        transform: rotate(45deg);
     }
         .faq .email-signup{
         max-width: 600px;
